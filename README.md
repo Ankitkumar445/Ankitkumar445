@@ -16,7 +16,7 @@ I’m focused on solving complex problems with efficient algorithms, building ro
 
 # 💻 Tech Stack:
 
-<img src="https://camo.githubusercontent.com/7fc3b91817a55bb50c591178701ace4ef8035885cf305723520c4b8c49134f8f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a6176612c6a6176617363726970742c7461696c77696e642c72656163742c632c737072696e672c657870726573732c6d7973716c2c6d6f6e676f64622c6e6f64656a732c68746d6c2c6373732c646a616e676f2c696c6c7573747261746f722c70686f746f73686f702c63616e76612c63706c7573706c7573" data-canonical-src="https://skillicons.dev/icons?i=python,java,javascript,tailwind,react,c,spring,express,mysql,mongodb,nodejs,html,css,photoshop,canva" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/7fc3b91817a55bb50c591178701ace4ef8035885cf305723520c4b8c49134f8f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a6176612c6a6176617363726970742c7461696c77696e642c72656163742c632c737072696e672c657870726573732c6d7973716c2c6d6f6e676f64622c6e6f64656a732c68746d6c2c6373732c646a616e676f2c696c6c7573747261746f722c70686f746f73686f702c63616e76612c63706c7573706c7573" data-canonical-src="https://skillicons.dev/icons?i=python,java,canva,javascript,tailwind,react,c,nodejs,html,css,photoshop" style="max-width: 100%;">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ankitkumar445&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
